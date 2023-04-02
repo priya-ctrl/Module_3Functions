@@ -17,7 +17,7 @@ public class CreateOutput_1 {
         catch (Exception e) {
             System.out.println(e);
         }
-        System.out.print
+        System.out.println("Correct");
         }
 
 
